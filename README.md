@@ -1,6 +1,6 @@
 # ActiveEmoji
 
-A collection of emoji alias for core Ruby methods. Makes Ruby code easier to
+A collection of emoji aliases for core Ruby methods. Makes Ruby code easier to
 read and write, especially for children and people who don't know English.
 
 This project is named with the goal of eventually being merged into Ruby on
