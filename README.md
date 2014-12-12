@@ -10,41 +10,11 @@ Rails. [Stranger things have happened.][forty_two]
 
 Here's a peek at some of the code under the hood:
 
-```ruby
-module Enumerable
-  alias 🔢 count
-  alias 🚲 cycle
-  alias 🔁🍕 each_slice
-  alias 🔎 find
-  alias 💉 inject
-  alias 😴 lazy
-  alias 🔄 reverse_each
-  alias ✊ take
-end
-
-class Object
-  alias ❄️ freeze
-  alias ⛄️❓ frozen?
-  alias 🔬 inspect
-  alias 🆔 object_id
-end
-
-module Kernel
-  alias 📎 binding
-  alias 🔁 loop
-  alias 📠 print
-  alias 🎰 rand
-  alias 💤 sleep
-  alias 💻 system
-  alias ⚠️ warn
-end
-```
+![Code](https://raw.githubusercontent.com/sferik/active_emoji/master/code.png)
 
 With these aliases, you can write your Ruby code like this:
 
-```ruby
-"🍒 🍍 7️⃣ 💎 🔔".🍌.🚲.✊(🔟.✖️ 🔟).🎰.🔁🍕(🔟){|🍕| 📠 🍕.🍀}
-```
+![Example](https://raw.githubusercontent.com/sferik/active_emoji/master/example.png)
 
 Please open a pull request if you have ideas for more aliases. The only rule is
 that commit messages must be written in emoji.
