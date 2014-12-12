@@ -1,0 +1,10 @@
+*.a
+*.bundle
+*.o
+*.so
+/.bundle/
+/Gemfile.lock
+/pkg/
+/spec/reports/
+/tmp/
+mkmf.log
