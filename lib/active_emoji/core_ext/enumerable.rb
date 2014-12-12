@@ -8,4 +8,6 @@ module Enumerable
   alias 📍 map
   alias 🔄 reverse_each
   alias ✊ take
+  alias 🈶❓ any?
+  alias 🈚️❓ none?
 end
