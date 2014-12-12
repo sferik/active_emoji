@@ -6,6 +6,8 @@ module Kernel
   alias 💤 sleep
   alias 💻 system
   alias ⚠️ warn
+  alias 📥 gets
+  alias 📤 puts
   def 🔟; 10 end
   def 💯; 100 end
 end
