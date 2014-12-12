@@ -5,6 +5,7 @@ module Enumerable
   alias 🔎 find
   alias 💉 inject
   alias 😴 lazy
+  alias 📍 map
   alias 🔄 reverse_each
   alias ✊ take
 end
