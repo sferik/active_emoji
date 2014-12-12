@@ -7,4 +7,5 @@ module Kernel
   alias 💻 system
   alias ⚠️ warn
   def 🔟; 10 end
+  def 💯; 100 end
 end
