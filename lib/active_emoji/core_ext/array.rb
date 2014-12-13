@@ -5,4 +5,5 @@ class Array
   alias 👈 push
   alias 🍕 slice
   alias 🈳❓ empty?
+  alias ⏪  <<
 end
