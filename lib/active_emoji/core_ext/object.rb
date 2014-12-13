@@ -4,4 +4,5 @@ class Object
   alias :"#️⃣" hash
   alias 🔬 inspect
   alias 🆔 object_id
+  alias 🚰 tap
 end
