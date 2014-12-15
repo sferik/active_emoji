@@ -1,5 +1,3 @@
-🔢 = Numeric
-
-class 🔢
+class Numeric
   alias 🚶 step
 end
