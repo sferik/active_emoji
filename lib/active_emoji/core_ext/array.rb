@@ -1,5 +1,6 @@
 class Array
   alias ⏪  <<
+  alias 💧 drop
   alias 🔁 each
   alias 🈳❓ empty?
   alias 🍀 sample

@@ -1,6 +1,7 @@
 module Enumerable
   alias 🈶❓ any?
   alias 🔢 count
+  alias 💧 drop
   alias 🚲 cycle
   alias 🔁🍕 each_slice
   alias 🔎 find
