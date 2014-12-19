@@ -1,4 +1,5 @@
 module Kernel
+  alias 🆚 <=>
   alias 📎 binding
   alias 📥 gets
   alias 🔁 loop
