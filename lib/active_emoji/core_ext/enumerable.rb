@@ -10,5 +10,6 @@ module Enumerable
   alias 📍 map
   alias 🈚️❓ none?
   alias 🔄 reverse_each
+  alias 📶 sort
   alias ✊ take
 end
