@@ -10,4 +10,5 @@ class String
   alias 🍌 split
   alias 🔠 upcase
   alias 🔠❗️ upcase!
+  alias 📏 length
 end
