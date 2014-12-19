@@ -1,5 +1,6 @@
 class Array
   alias ⏪  <<
+  alias 🈴 concat
   alias 💧 drop
   alias 🔁 each
   alias 🈳❓ empty?
