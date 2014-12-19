@@ -1,6 +1,7 @@
 module Kernel
   alias 🆚 <=>
   alias 📎 binding
+  alias 🔲❓ block_given?
   alias 📥 gets
   alias 🔁 loop
   alias 📠 print
