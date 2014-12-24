@@ -1,11 +1,6 @@
-# coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'active_emoji/version'
-
 Gem::Specification.new do |spec|
   spec.name          = "active_emoji"
-  spec.version       = ActiveEmoji::VERSION
+  spec.version       = "0.0.2"
   spec.authors       = ["Erik Michaels-Ober"]
   spec.email         = ["sferik@gmail.com"]
   spec.summary       = %q{A collection of emoji aliases for core Ruby methods}
@@ -16,6 +11,7 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0")
   spec.require_paths = ["lib"]
 
+  spec.required_ruby_version = "~> 2.0"
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
 end
