@@ -1,4 +1,4 @@
-Copyright (c) 2014 Erik Michaels-Ober
+Copyright (c) 2014-2016 Erik Michaels-Ober
 
 MIT License
 
