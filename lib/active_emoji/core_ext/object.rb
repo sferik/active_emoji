@@ -1,5 +1,6 @@
 class Object
   alias ⛄️❓ frozen?
+  alias ❄️❓ frozen?
   alias ❄️ freeze
   alias :"#️⃣" hash
   alias 🔬 inspect
