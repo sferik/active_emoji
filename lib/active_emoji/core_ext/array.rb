@@ -5,6 +5,7 @@ class Array
   alias 🔁 each
   alias 🈳❓ empty?
   alias 🍀 sample
+  alias 🎲 sample
   alias ♻️ shuffle
   alias 👈 push
   alias 🍕 slice
