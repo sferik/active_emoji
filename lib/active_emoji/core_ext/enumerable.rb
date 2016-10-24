@@ -6,6 +6,8 @@ module Enumerable
   alias 🔁🍕 each_slice
   alias 🔎 find
   alias 💉 inject
+  alias 🦁🐱🐭 reduce
+  alias 🐘🐀🐁 reduce
   alias 😴 lazy
   alias 📍 map
   alias 🈚️❓ none?
