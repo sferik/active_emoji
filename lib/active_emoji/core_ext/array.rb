@@ -1,5 +1,7 @@
 class Array
   alias ⏪  <<
+  alias ⏮  first
+  alias ⏭  last
   alias 🈴 concat
   alias 💧 drop
   alias 🔁 each
